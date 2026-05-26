@@ -1,1 +1,28 @@
 [Mon May 25 14:28:39 2026] PHP 8.2.12 Development Server (http://127.0.0.1:8080) started
+[Mon May 25 14:28:54 2026] 127.0.0.1:59985 Accepted
+[Mon May 25 14:28:54 2026] 127.0.0.1:59985 [200]: GET /
+[Mon May 25 14:28:54 2026] 127.0.0.1:59985 Closing
+[Mon May 25 14:29:25 2026] 127.0.0.1:49640 Accepted
+[Mon May 25 14:29:25 2026] 127.0.0.1:49640 [200]: GET /index.php?page=vehicle&id=tesla-model-3
+[Mon May 25 14:29:25 2026] 127.0.0.1:49640 Closing
+[Mon May 25 14:29:25 2026] 127.0.0.1:49641 Accepted
+[Mon May 25 14:29:25 2026] 127.0.0.1:49641 [200]: GET /index.php?page=booking&id=tesla-model-3
+[Mon May 25 14:29:25 2026] 127.0.0.1:49641 Closing
+[Mon May 25 14:29:25 2026] 127.0.0.1:49643 Accepted
+[Mon May 25 14:29:25 2026] 127.0.0.1:49644 Accepted
+[Mon May 25 14:29:25 2026] 127.0.0.1:49643 [200]: GET /index.php?page=admin
+[Mon May 25 14:29:25 2026] 127.0.0.1:49643 Closing
+[Mon May 25 14:29:25 2026] 127.0.0.1:49644 [200]: GET /index.php?page=vehicles
+[Mon May 25 14:29:25 2026] 127.0.0.1:49644 Closing
+[Mon May 25 14:29:36 2026] 127.0.0.1:49649 Accepted
+[Mon May 25 14:29:36 2026] 127.0.0.1:49648 Accepted
+[Mon May 25 14:29:36 2026] 127.0.0.1:49649 [200]: GET /index.php?page=contact
+[Mon May 25 14:29:36 2026] 127.0.0.1:49649 Closing
+[Mon May 25 14:29:36 2026] 127.0.0.1:49648 [200]: GET /index.php?page=register
+[Mon May 25 14:29:36 2026] 127.0.0.1:49648 Closing
+[Mon May 25 14:29:36 2026] 127.0.0.1:49650 Accepted
+[Mon May 25 14:29:36 2026] 127.0.0.1:49651 Accepted
+[Mon May 25 14:29:36 2026] 127.0.0.1:49650 [200]: GET /index.php?page=login
+[Mon May 25 14:29:36 2026] 127.0.0.1:49650 Closing
+[Mon May 25 14:29:36 2026] 127.0.0.1:49651 [200]: GET /index.php?page=customer
+[Mon May 25 14:29:36 2026] 127.0.0.1:49651 Closing
